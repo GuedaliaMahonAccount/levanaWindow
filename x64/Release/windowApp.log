@@ -1,0 +1,2 @@
+﻿MSVCRT.lib(exe_main.obj) : error LNK2001: symbole externe non résolu main
+C:\Users\gueda\levana\windowApp\x64\Release\windowApp.exe : fatal error LNK1120: 1 externes non résolus
